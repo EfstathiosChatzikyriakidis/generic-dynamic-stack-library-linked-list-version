@@ -5,7 +5,7 @@
  *
  *  ---
  *
- *  Copyright (C) 2010  Efstathios Chatzikyriakidis (contact@efxa.org)
+ *  Copyright (C) 2010  Efstathios Chatzikyriakidis (stathis.chatzikyriakidis@gmail.com)
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -24,7 +24,7 @@
  *
  *  Version 1.0
  *
- *    2010-09-23  Efstathios Chatzikyriakidis  <contact@efxa.org>
+ *    2010-09-23  Efstathios Chatzikyriakidis  <stathis.chatzikyriakidis@gmail.com>
  *
  *      - added exit(), blink(): error reporting and handling methods.
  *
@@ -32,7 +32,7 @@
  *
  *      - added setPrinter(): indirectly reference a Serial object.
  *
- *    2010-09-15  Efstathios Chatzikyriakidis  <contact@efxa.org>
+ *    2010-09-15  Efstathios Chatzikyriakidis  <stathis.chatzikyriakidis@gmail.com>
  *
  *      - initial release of the library.
  *
